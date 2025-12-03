@@ -1,5 +1,5 @@
 baseURL: "/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: 生活博客
+title: 写给小佳的信
 paginate: 5
 theme: hugo-PaperMod
 
@@ -35,8 +35,6 @@ languages:
                 - name: 标签
                   url: tags/
                   weight: 10
-                - name: 学术主页
-                  url: https://zexinfu.com
 
 outputs:
     home:
@@ -78,9 +76,9 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "傅的小世界"
+        Title: "傅减减说"
         Content: >
-            在城市里待久了，老忘记原来人也是生物圈的一部分。
+            要一直一直写下去。
 
 #    socialIcons:
 #        - name: zhihu
