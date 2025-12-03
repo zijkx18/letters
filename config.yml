@@ -32,9 +32,9 @@ languages:
                 - name: 搜索
                   url: search/
                   weight: 10
-                - name: 标签
-                  url: tags/
-                  weight: 10
+                # - name: 标签
+                #   url: tags/
+                #   weight: 10
                 - name: +与-
                   url: https://jiajia.fuze.xin/
 
